@@ -5,12 +5,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunjankanani&label=Profile%20views&color=0e75b6&style=flat" alt="kananinirav" /> </p>
 
 ---
-
 - ⚙️ I use daily: `.py`, `.js`, `.java`, `.ng`, `.html`, `.scss`, `.svg`, `.png`, `.json`,`.sql`
 - 🌍 I support linux because its amazing
 - 👯 I’m looking to collaborate on Open Source Projects
 - 💅 Want to work at: **People**
-- 🌱 Learning more about and studying: **DSA , Angular, CS Algorithms, Machine learning, AI, API, Open Source**
+- 🌱 Learning more about and studying: **DSA , MEAN , Angular, CS Algorithms, Machine learning, AI, API, Open Source**
 - 💬 Ask me about **MEAN , Artificial intelligence , Java , Linux**
 - 📫 How to reach me **kunjankanani24@gmail.com**
 - 😄 Passionate about AI and Quantum Computing to bring that tech into peoples hand and AR too!
