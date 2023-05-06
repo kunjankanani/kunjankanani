@@ -5,6 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunjankanani&label=Profile%20views&color=0e75b6&style=flat" alt="kananinirav" /> </p>
 
 ---
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 - ⚙️ I use daily: `.py`, `.js`, `.java`, `.ng`, `.html`, `.scss`, `.svg`, `.png`, `.json`,`.sql`
 - 🌍 I support linux because its amazing
 - 👯 I’m looking to collaborate on Open Source Projects
