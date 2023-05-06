@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kunjan Kanani</h1>
+<div align="center">
+<picture> <img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 350px></picture>
+</div>
 <h3 align="center">Proficient Java Developer</h3>
 <h4 align="center">Software Engineer 💻 Passionate about continuous growth and development.</h4>
 
@@ -6,7 +9,7 @@
 
 ---
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
 - ⚙️ I use daily: `.py`, `.js`, `.java`, `.ng`, `.html`, `.scss`, `.svg`, `.png`, `.json`,`.sql`
 - 🌍 I support linux because its amazing
 - 👯 I’m looking to collaborate on Open Source Projects
