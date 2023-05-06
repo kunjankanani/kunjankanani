@@ -5,6 +5,7 @@
 </div>
 <h3 align="center">Proficient Java Developer</h3>
 <h4 align="center">Software Engineer 💻 Passionate about continuous growth and development.</h4>
+<h4 align="center">AI & ML Enthusiastic</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunjankanani&label=Profile%20views&color=0e75b6&style=flat" alt="kananinirav" /> </p>
 
