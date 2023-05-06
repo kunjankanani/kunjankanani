@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kunjan Kanani</h1>
+<h1 align="center"> <img align="left" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>Hi 👋, I'm Kunjan Kanani <img align="right" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></h1>
+
 <div align="center">
 <picture> <img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 350px></picture>
 </div>
@@ -26,6 +27,8 @@
 ## Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunjankanani&layout=compact&theme=radical)
+
+<b>Note</b>: *Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.*
 
 ## Statistics
 
