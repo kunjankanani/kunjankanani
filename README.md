@@ -3,7 +3,7 @@
 <div align="center">
 <picture> <img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 350px></picture>
 </div>
-<h3 align="center">Proficient Java Developer</h3>
+<h3 align="center">Developer</h3>
 <h4 align="center">Software Engineer 💻 Passionate about continuous growth and development.</h4>
 <h4 align="center">AI & ML Enthusiastic</h4>
 
@@ -12,12 +12,12 @@
 ---
 
 
-- ⚙️ I use daily: `.py`, `.js`, `.java`, `.ng`, `.html`, `.scss`, `.svg`, `.png`, `.json`,`.sql`
+- ⚙️ I use daily: `.py`, `.js`, `.java`,`.json`,`.sql`
 - 🌍 I support linux because its amazing
 - 👯 I’m looking to collaborate on Open Source Projects
 - 💅 Want to work at: **People**
-- 🌱 Learning more about and studying: **DSA , MEAN , Angular, CS Algorithms, Machine learning, AI, API, Open Source**
-- 💬 Ask me about **MEAN , Artificial intelligence , Java , Linux**
+- 🌱 Learning more about and studying: **DSA , MEAN, Angular, CS Algorithms, Machine learning, AI, API, Open Source**
+- 💬 Ask me about **Artificial intelligence , Java , Linux**
 - 📫 How to reach me **kunjankanani24@gmail.com**
 - 😄 Passionate about AI and Quantum Computing to bring that tech into peoples hand and AR too!
 - ⚡ Fun fact Love Tech Jokes😂
