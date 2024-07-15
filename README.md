@@ -41,4 +41,4 @@
      
 </div>
 
-![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kunjankanani&bg_color=000000&color=ffffff&line=0164e4&point=8500db)
+![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kunjankanani&theme=nord)
