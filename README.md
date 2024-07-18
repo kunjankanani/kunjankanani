@@ -35,14 +35,13 @@ Stream high-quality movies 🎥 & web series 🍿 online ​​​​FREE . Watc
 ---
 <div align="center">
 
-## Statistics
-
-![Kunjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunjankanani&show_icons=true&theme=radical)
-
 ## Commit Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kunjankanani&tshow_icons=true&theme=radical)
-     
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kunjankanani&tshow_icons=true&theme=nord)
+
+## Contribution graph
 
 ![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kunjankanani&theme=nord)
+</div>
+
+
