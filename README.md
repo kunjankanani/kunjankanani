@@ -23,7 +23,7 @@
 - ⚡ Fun fact Love Tech Jokes😂
 ---
 
-# 🔝 Project Website
+# 🔝 Developed and managed a Website
 
 ## Movie-Web
 
