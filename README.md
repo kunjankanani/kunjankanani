@@ -53,11 +53,11 @@ Stream high-quality movies 🎥 & web series 🍿 online ​​​​FREE . Watc
 
 ## Commit Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kunjankanani&tshow_icons=true&theme=nord)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kunjankanani&tshow_icons=true&theme=tokyonight)
 
 ## Contribution graph
 
-![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kunjankanani&theme=nord)
+![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kunjankanani&theme=tokyo-night)
 
 </div>
 
