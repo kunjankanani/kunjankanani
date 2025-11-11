@@ -12,15 +12,31 @@
 ---
 
 
-- ⚙️ I use daily: `.py`, `.js`, `.java`,`.json`,`.sql`
-- 🌍 I support linux because its amazing
-- 👯 I’m looking to collaborate on Open Source Projects
-- 💅 Want to work at: **People**
-- 🌱 Learning more about and studying: **DSA , MEAN, Angular, CS Algorithms, Machine learning, AI, API, Open Source**
-- 💬 Ask me about **Artificial intelligence , Java , Linux**
-- 📫 How to reach me **kunjankanani24@gmail.com**
-- 😄 Passionate about AI and Quantum Computing to bring that tech into peoples hand and AR too!
-- ⚡ Fun fact Love Tech Jokes😂
+  ⚙️ I work daily with Python, JavaScript, JSON, and SQL.
+
+  🌍 Proud Linux supporter — love its power and flexibility!
+
+  👯 Open to collaborating on Open Source Projects that make a real impact.
+
+  💅 Aspiring to work with innovative and people-focused tech teams.
+
+  🌱 Currently learning and exploring DSA, FAST API, Angular, Machine Learning, AI, APIs, and Open Source Development.
+
+  📫 Reach me at: kunjankanani24@gmail.com
+
+  😄 Passionate about AI, Quantum Computing, and AR — aiming to bring next-gen tech into people’s hands.
+
+  ⚡ Fun fact: I love tech jokes 😂
+
+---
+
+🛠️ Tech Stack
+
+- Languages: Python | Java | JavaScript | C/C++ | SQL
+- Frameworks: Django REST Framework (DRF) | FastAPI | Angular
+- Databases: PostgreSQL | MySQL | Oracle
+- Tools: Git | GitHub | Postman | PyCharm | Linux
+
 ---
 
 # 🔝 Developed and managed a Website
